@@ -1,4 +1,4 @@
-## Secret Message Encryption Tool
+# Secret Message Encryption Tool
 
 This project is a Python-based tool that encrypts and hides a secret message inside an image using pixel manipulation techniques. It also provides a secure way to decrypt the message with a passcode, ensuring only authorized users can retrieve the hidden information.
 
