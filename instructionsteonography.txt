@@ -1,0 +1,6 @@
+-upload photo 
+-open anaconda prompt
+-go to diectory 
+> cd demo
+-run code
+> python stegofile.py
